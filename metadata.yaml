@@ -1,5 +1,8 @@
 _repo: Fombombo_64700
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64700-h/images/cover.jpg
 creator:
   author:
     agent_name: Stribling, T. S. (Thomas Sigismund)
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3087
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Sigismund_Stribling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64700#Fombombo
 gutenberg_issued: '2021-03-05'
 gutenberg_type: Text
 identifiers:
